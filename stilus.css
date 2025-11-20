@@ -1,4 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
 figure img{
     width: 200px;
     height: auto;
+}
+nav{
+    background-color:darkgreen ;
+    padding: 10px;
+
+}
+nav ol{list-style-type: none ;
+
+
+}
+main{
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+nav ol li{
+    display: inline;
+    margin: left 10px;
+    padding-right: 20px
+}
+a{
+    color: ;
+}
+footer{
+    vertical-align: text-top;
 }
